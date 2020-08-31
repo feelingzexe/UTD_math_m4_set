@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/feelingzexe">
+  <a href="https://github.com/peerawitp">
     <img src="assets/pic/teacher.png" height="300" width="450">
   </a>
   <h3 align="center">Mathematics M.4 Unit: Set</h3>
@@ -7,7 +7,7 @@
     A workpiece for mathematics class.
     <br />
     <a href="https://utd.ac.th/" target="_blank"><strong>Uttaradit School »</strong></a><br>
-    <a href="https://feelingzexe.github.io/mathsetschool" target="_blank"><strong>Website Preview »</strong></a><br>
+    <a href="https://peerawitp.github.io/mathsetschool/" target="_blank"><strong>Website Preview »</strong></a><br>
   </p>
 </p>
 
